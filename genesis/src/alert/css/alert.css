@@ -1,0 +1,16 @@
+.alert {
+  padding: 4px;
+  border: 1px solid red
+}
+
+.alert--success {
+  background: green;
+}
+
+.alert--danger {
+  background: red;
+}
+
+.alert--info {
+  background: blue;
+}

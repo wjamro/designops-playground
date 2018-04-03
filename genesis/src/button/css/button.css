@@ -1,0 +1,12 @@
+.button {
+    padding: 4px;
+    border: 1px solid grey;
+}
+
+.button:hover {
+    background: grey;
+}
+
+.button--primary {
+    background: green;
+}
